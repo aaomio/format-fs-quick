@@ -25,7 +25,7 @@ Now run the following commands:
 list disk
 select disk 0
 create partition primary
-format fs=ntfs quick label=NTFS_DRIVE
+format fs=ntfs quick label=OS
 assign letter=E
 exit
 ```
