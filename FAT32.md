@@ -1,4 +1,4 @@
-# USB Formatting Using DiskPart (FAT32 Workflow)
+# FAT32 Formatting Using DiskPart
 
 This guide demonstrates how to prepare a USB drive using FAT32 for maximum compatibility and bootable media support.
 
