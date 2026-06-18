@@ -26,8 +26,8 @@ This project demonstrates how to prepare and configure a USB drive for different
 
 ## Documentation
 
-- [NTFS File System](ntfs.md)
-- [exFAT File System](exfat.md)
-- [FAT32 File System](fat32.md)
+- [NTFS File System](NTFS.md)
+- [exFAT File System](exFAT.md)
+- [FAT32 File System](FAT32.md)
 
 
