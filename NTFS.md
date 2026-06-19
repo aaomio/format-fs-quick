@@ -6,10 +6,6 @@ This guide demonstrates the complete Windows workflow for preparing a USB drive 
 
 Press `Win + R`, type `cmd`, then press Enter.
 
-In Command Prompt:
-```cmd
-diskpart
-
 In Command Prompt type:
 ```cmd
 diskpart
